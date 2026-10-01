@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300">
+<rect width="1100" height="300" fill="#101d2c"/>
+<text x="35" y="48" fill="#6fe5bc" font-family="Arial" font-size="14">GROWTH ANALYTICS / SYNTHETIC PORTFOLIO STUDY</text>
+<text x="35" y="90" fill="white" font-family="Arial" font-size="26">Paid Media Performance &amp; Acquisition</text>
+<text x="35" y="165" fill="#b8c8da" font-family="Arial" font-size="14">Media spend</text>
+<text x="35" y="209" fill="white" font-family="Arial" font-size="29">$351,131</text>
+<text x="300" y="165" fill="#b8c8da" font-family="Arial" font-size="14">New members</text>
+<text x="300" y="209" fill="white" font-family="Arial" font-size="29">15,776</text>
+<text x="565" y="165" fill="#b8c8da" font-family="Arial" font-size="14">Blended media CAC</text>
+<text x="565" y="209" fill="white" font-family="Arial" font-size="29">$22.26</text>
+<text x="830" y="165" fill="#b8c8da" font-family="Arial" font-size="14">Campaign-day rows</text>
+<text x="830" y="209" fill="white" font-family="Arial" font-size="29">1440</text>
+<text x="35" y="270" fill="#b8c8da" font-family="Arial" font-size="13">Reproducible SQL + Python • Open the HTML dashboard for charts, filters, and evidence.</text>
+</svg>
